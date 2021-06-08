@@ -1,2 +1,2 @@
 # invitationCompare
-Compares the inviations in staging and in production
+Compares the inviations in staging and in production 
